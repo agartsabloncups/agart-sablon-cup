@@ -11015,7 +11015,7 @@ p {
 }
 .list-hours .list-hours-item.today {
   font-weight: bold;
-  color: #ffd670;
+  color: #ff7300;
 }
 @media (min-width: 992px) {
   .list-hours {
